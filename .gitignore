@@ -19,6 +19,7 @@ chatappbackend/mvnw.cmd
 chatappbackend/logs/
 chatappbackend/*.log
 chatappbackend/.env
+chatappbackend/.gitattributes
 
 chatappbackend/lib/
 chatappbackend\.mvn\wrapper\maven-wrapper.properties
@@ -31,6 +32,7 @@ chatappbackend/src/main/resources/application.properties
 chatappfrontend/node_modules
 chatappfrontend/dist/
 chatappfrontend/.vite/
+chatappfrontend/src/assets
 
 
 
