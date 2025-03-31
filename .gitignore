@@ -1,0 +1,38 @@
+# Root-level .gitignore
+
+# Ignore OS-specific and IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+
+# ------------------------
+# Backend (Spring Boot)
+# ------------------------
+chatappbackend/target/
+chatappbackend/idea
+chatappbackend/.settings/
+chatappbackend/.mvn
+chatappbackend/mvnw
+chatappbackend/mvnw.cmd
+chatappbackend/logs/
+chatappbackend/*.log
+chatappbackend/.env
+
+chatappbackend/lib/
+chatappbackend\.mvn\wrapper\maven-wrapper.properties
+
+# Ignore application properties (for security)
+chatappbackend/src/main/resources/application.properties
+
+# Frontend (React + Vite)
+# ------------------------
+chatappfrontend/node_modules
+chatappfrontend/dist/
+chatappfrontend/.vite/
+
+
+
+
+
