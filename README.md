@@ -26,7 +26,7 @@ Astara is an AI-powered chat application that leverages **Google's Gemini API** 
 1. Clone the repository:
    ```sh
    git clone https://github.com/Bhupendra-Verma1/Astara.git
-   cd Astara/backend
+   cd Astara/chatappbackend
    ```
 2. Install dependencies:
    ```sh
@@ -40,7 +40,7 @@ Astara is an AI-powered chat application that leverages **Google's Gemini API** 
 ### 🎨 Frontend (React + Vite)
 1. Navigate to the frontend directory:
    ```sh
-   cd ../frontend
+   cd ../chatappfrontend
    ```
 2. Install dependencies:
    ```sh
